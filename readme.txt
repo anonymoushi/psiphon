@@ -1,3 +1,5 @@
+俺那个【自动同步翻墙工具】的 BT sync 密钥：BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
+
 “赛风”是老牌的翻墙工具，由加拿大多伦多大学和公民实验室联合开发。
 
 官方网站是 http://www.psiphon3.com/
